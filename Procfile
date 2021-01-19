@@ -1,3 +1,2 @@
-worker: python3 -m Zenitsu
-web: python3 -m Zenitsu
+worker: python3 -m main.py
 ps:scale worker=1
