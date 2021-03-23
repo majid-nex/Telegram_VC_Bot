@@ -75,7 +75,7 @@ async def start(_, message: Message):
         await message.reply_text("You're Blacklisted, So Stop Spamming.")
         return
     await message.reply_text(
-        "Hi I'm Telegram Voice Chat Bot. Join @TheHamkerChat For Support."
+        "Hi I'm zerotwo Voice Chat Bot. Join @Zerotwosupport For Support."
     )
 
 
